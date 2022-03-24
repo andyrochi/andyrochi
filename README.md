@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - ☕️ I enjoy brewing coffee and anime 😎
 
 - 🏃 I run a lot :D
+- 👉 My portfolio can be viewed here: [Portfolio](https://www.notion.so/andychangch/Portfolio-e64f6c9d7777462d8c851df390454273)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
