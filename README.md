@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there👋, I'm Andy Chang</h1>
-<h3 align="center">An undergraduate at NYCU experienced in front-end development</h3>
+<h3 align="center">A master's student at Cornell Tech based in NYC.</h3>
 
-- 🔭 I’m currently working on [SYNC: Crowdsourcing Platform for News Co-editing](https://sync.muilab.org/)
+- 🔭 I’m interested in deep learning and software engineering.
 
-- 🌱 I’m currently learning **PyTorch and deep learning**
+<!-- - 🌱 I’m currently learning **PyTorch and deep learning** -->
+- 🎨 I like going to art museums.
 
 - ☕️ I enjoy brewing coffee and anime 😎
 
